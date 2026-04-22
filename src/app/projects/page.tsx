@@ -1,4 +1,6 @@
 
+
+// Projects page component
 export default function Projects() {
   return (
     <div>

@@ -1,5 +1,5 @@
 
-
+// Contact page component
 export default function Contact() {
   return (
     <div>

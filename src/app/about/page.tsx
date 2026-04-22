@@ -1,5 +1,5 @@
 
-
+// About page component
 export default function About() {
   return (
     <div>
